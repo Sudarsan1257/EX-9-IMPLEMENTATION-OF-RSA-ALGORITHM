@@ -1,4 +1,4 @@
-<img width="1202" height="554" alt="image" src="https://github.com/user-attachments/assets/74cc3e1f-9101-473d-855d-a2fb10c27e9c" />## EX 9 : IMPLEMENTATION OF RSA ALGORITHM
+## EX 9 : IMPLEMENTATION OF RSA ALGORITHM
 
 
 ## AIM:
